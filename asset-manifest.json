@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Dropdown/static/css/main.e8f2ad1f.css",
+    "main.js": "/React-Dropdown/static/js/main.ec1042af.js",
+    "static/media/backgroundImage.jpg": "/React-Dropdown/static/media/backgroundImage.c8e97d1fdc46478ef82d.jpg",
+    "index.html": "/React-Dropdown/index.html",
+    "main.e8f2ad1f.css.map": "/React-Dropdown/static/css/main.e8f2ad1f.css.map",
+    "main.ec1042af.js.map": "/React-Dropdown/static/js/main.ec1042af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8f2ad1f.css",
+    "static/js/main.ec1042af.js"
+  ]
+}
