@@ -41,7 +41,7 @@ Follow these steps to get the project up and running on your local system:
 
 1. Clone the repository to your local machine:
 ```bash
-  
+  https://github.com/SinhaKhushiTheRockc2/React-Dropdown
 ```
 2. Navigate to the root directory of the project:
 
